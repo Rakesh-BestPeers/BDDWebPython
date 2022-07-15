@@ -1,0 +1,13 @@
+<testsuite name="login.Tutorial Point Login Page" tests="1" errors="0" failures="0" skipped="0" time="35.750564" timestamp="2022-07-13T15:30:27.467884" hostname="AutomationEngineer"><testcase classname="login.Tutorial Point Login Page" name="Tutorial Point Login Cases Scenarios" status="passed" time="35.750564"><system-out>
+<![CDATA[
+@scenario.begin
+  Scenario: Tutorial Point Login Cases Scenarios
+    Given Launch Browser ... passed in 5.284s
+    When User Enter Valid Credentials ... passed in 8.538s
+    Then User Click on Login Button ... passed in 7.382s
+    Then User Check Tutorial-point Logo ... passed in 14.548s
+
+@scenario.end
+--------------------------------------------------------------------------------
+]]>
+</system-out></testcase></testsuite>
